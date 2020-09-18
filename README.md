@@ -1,5 +1,5 @@
 # T4SG_Challenge
-For the Interview
+This repository is for the interview.
 
 Important Files: 
 
